@@ -1,0 +1,6 @@
+Total anomalies: 3374
+Critical anomalies: 404
+Top anomaly categories: anomaly_category
+Spike    3374
+Name: count, dtype: int64
+Mean severity score: 1.3829972655671807
